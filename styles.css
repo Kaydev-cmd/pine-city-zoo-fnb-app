@@ -79,7 +79,7 @@ body {
   background: url("../images/map-blur.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 100%;
 }
 
 #content {
@@ -131,7 +131,7 @@ a.info-box {
   width: 90%;
   display: block;
   margin: auto;
-  margin-top: 12px;
+  margin-top: 140px;
   padding: 10px;
 }
 
