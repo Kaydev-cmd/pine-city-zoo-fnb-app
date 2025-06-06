@@ -142,3 +142,14 @@ a.info-box {
 #info-box-full h3 {
   text-align: center;
 }
+
+/* Weather Page */
+
+img.info-box-weather-icon {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  float: left;
+}
+
+
